@@ -189,6 +189,7 @@ div h2 span{
     }
     .about_us{
         margin: 0px;
+        width: fit-content;
     }
    section iframe{
         min-width: 300px;
@@ -197,5 +198,9 @@ div h2 span{
     }
     section{
         height: fit-content;
+    }
+
+    div h5 {
+        margin: 0px 20px;
     }
 }
